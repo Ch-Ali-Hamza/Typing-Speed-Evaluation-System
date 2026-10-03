@@ -1,0 +1,32 @@
+# Compiled Java Class Files
+*.class
+
+# Executable files & Packages
+*.jar
+*.war
+*.ear
+
+# Runtime Generated Data Files
+*.dat
+
+# IDE & Editor Specific Files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build Directories
+bin/
+build/
+out/
+target/
